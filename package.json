@@ -1,0 +1,22 @@
+{
+  "name": "bethehero",
+  "version": "1.0.1",
+  "description": "Site para cadastro de ongs e eventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeFilipe/be-the-hero.git"
+  },
+  "keywords": [
+    "Node.Js"
+  ],
+  "author": "Jorge Filipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeFilipe/be-the-hero/issues"
+  },
+  "homepage": "https://github.com/JorgeFilipe/be-the-hero#readme"
+}
